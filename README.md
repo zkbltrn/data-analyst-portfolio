@@ -16,13 +16,7 @@ This section lists all the relevant projects I have created or participated in, 
 
 **Main Objective:** To select significant factors that affect daily sales of a local business and to forecast from highly volatile data
 
-**Description:** This project forecasts daily sales of a local café based on 3 months of POS data.
-
-It also investigates other factors as possible exogenous variables or regressors, including: Social media views (Views), Social media posts (Posts), Product promotions (Promo), Temperature (Temp), Local festivals and events (Fiesta), Holidays (Holiday), Class or work suspensions (Suspension).
-
-A brute force method was implemented, trying all possible combinations of regressors simultaneous to the model fitting phase with the use of R's auto ARIMA function. To further investigate, MLR Analysis and backward elimination was used to select the possible regressors in creating an ARIMAX model.
-
-Three ARIMAX models are then shortlisted: Best RMSE, Best MAPE, and MLR Method. Afterwards, the final model is selected via visual comparison and intuition.
+**Description:** A brute force method was implemented beforehand, trying all possible combinations of regressors simultaneous to the model fitting phase with the use of R's auto ARIMA function. To further investigate, MLR Analysis and backward elimination was used to select the possible regressors in creating an ARIMAX model. Three ARIMAX models are then shortlisted: Best RMSE, Best MAPE, and MLR Method. Afterwards, the final model is selected via visual comparison and intuition.
 
 **Skills:** data cleaning, data analysis, feature selection, time-series modeling, forecasting, residual diagnostics, data visualization
 
