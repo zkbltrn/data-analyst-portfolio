@@ -24,41 +24,26 @@ A brute force method was implemented, trying all possible combinations of regres
 
 Three ARIMAX models are then shortlisted: Best RMSE, Best MAPE, and MLR Method. Afterwards, the final model is selected via visual comparison and intuition.
 
-**Skills:**
+**Skills:** data cleaning, data analysis, feature selection, time-series modeling, forecasting, residual diagnostics, data visualization
 
-# Zak Laurence E. Beltran – Data Analytics Portfolio
+**Tools:** RStudio (R), Jamovi, Excel
 
-Hi! I’m **Zak Laurence E. Beltran**, a Magna Cum Laude graduate in **B.S. Mathematics** with a specialization in **Computer Science**.
+**Results:** Forecasting model (ARIMAX) identified promotions, local festivals, and social media posts as key drivers of daily café sales. ARIMAX model demonstrated an improvement of 9.5% MAPE compared to an ARIMA baseline model.
 
-I am passionate about **turning data into actionable insights** through statistical modeling, forecasting, and data visualization. My background combines strong quantitative skills with hands-on experience in **R, Python, SQL, Excel**, and statistical analysis tools like **Jamovi**.
+### Descriptive Analysis and Stratified Groups Comparison on Students' Level of Awareness on the Environmental Implications of Generative AI
 
-This portfolio showcases my work in **data analytics**, including:
+**Project Folder:** TBA
 
--   **Time-series forecasting** – ARIMA, ARIMAX, and exogenous variable modeling\
--   **Regression analysis** – MLR with feature selection and backward elimination\
--   **Business-driven analytics** – analyzing the impact of promotions, holidays, and social media activity on sales\
--   **Model evaluation** – using RMSE, MAPE, and residual diagnostics
+**Main Objective:** TBA
 
-## Projects
+**Skills:** TBA
 
-| Project | Description | Language/Tools |
-|-------------------|------------------------|------------------------------|
-| [Daily Sales Forecasting with ARIMAX](data-analytics/sales-forecasting-arimax) | Forecast daily café sales using ARIMAX with exogenous variables, MLR-based feature selection, and residual analysis | R, Excel, Jamovi |
-| Project 2 | Short description | Python, SQL |
-| Project 3 | Short description | R, Tableau |
+**Tools:** TBA
 
-*(Add more projects as you complete them)*
-
-------------------------------------------------------------------------
-
-## Skills
-
--   **Languages & Tools:** R, Python, SQL, Excel, Jamovi\
--   **Analytics & Modeling:** Time-series forecasting, regression, data visualization\
--   **Workflow:** Data cleaning, feature selection, model evaluation, reporting
-
-------------------------------------------------------------------------
+**Results:** TBA
 
 ## Contact
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/yourprofile) \| [zak\@example.com](mailto:zak@example.com){.email}
+LinkedIn: [Zak Laurence E. Beltran](https://www.linkedin.com/in/zak-laurence-beltran)
+
+Email: [zakbeltran14\@gmail.com](mailto:zakbeltran14@gmail.com){.email}
