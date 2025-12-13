@@ -46,4 +46,4 @@ Three ARIMAX models are then shortlisted: Best RMSE, Best MAPE, and MLR Method. 
 
 LinkedIn: [Zak Laurence E. Beltran](https://www.linkedin.com/in/zak-laurence-beltran)
 
-Email: [zakbeltran14\@gmail.com](mailto:zakbeltran14@gmail.com){.email}
+Email: [zakbeltran14\@gmail.com](mailto:zakbeltran14@gmail.com)
