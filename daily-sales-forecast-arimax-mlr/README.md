@@ -30,7 +30,7 @@ This project contains:
 
 The diagram below shows the framework in selecting the best model and its regressors.
 
-![](images/clipboard-556313269.png)
+<img src="images/clipboard-556313269.png" width="587"/>
 
 ## Tools and Software Used
 
