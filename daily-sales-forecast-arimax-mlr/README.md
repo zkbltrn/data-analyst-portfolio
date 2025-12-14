@@ -76,7 +76,7 @@ Below is the residual analysis of the final ARIMAX model. It shows no clear auto
 
 From the final selected model, it proposes that factors like local festivals, product and service promotions, and the number of social media posts per day can affect sales.
 
-ARIMAX model demonstrated an improvement of 9.5% MAPE compared to an ARIMA baseline model.
+ARIMAX model demonstrated a reduction of 9.5% in MAPE and 11.7% in RMSE compared to a baseline ARIMA model
 
 This project also proposes that MLR Analysis and Backward Elimination can shortlist the significant regressors, with the final model possessing 3/4 of the MLR Method model's regressors. Further investigation for this hypothesis.
 
