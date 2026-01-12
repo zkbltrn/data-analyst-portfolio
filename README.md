@@ -24,18 +24,6 @@ This section lists all the relevant projects I have created or participated in, 
 
 **Results:** Forecasting model (ARIMAX) identified promotions, local festivals, and social media posts as key drivers of daily café sales. ARIMAX model demonstrated an improvement of 9.5% MAPE compared to an ARIMA baseline model.
 
-### Descriptive Analysis and Stratified Groups Comparison on Students' Level of Awareness on the Environmental Implications of Generative AI
-
-**Project Folder:** TBA
-
-**Main Objective:** TBA
-
-**Skills:** TBA
-
-**Tools:** TBA
-
-**Results:** TBA
-
 ## Contact
 
 LinkedIn: [Zak Laurence E. Beltran](https://www.linkedin.com/in/zak-laurence-beltran)
