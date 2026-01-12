@@ -1,10 +1,10 @@
-# Zak Laurence E. Beltran - Data Analyst Portfolio
+# Zak Laurence E. Beltran - Main Portfolio
 
 ## About Me
 
 Hey hey hey! I am **Zak Laurence E. Beltran**! I am currently a fourth-year **Mathematics and Computer Science student**. I have a strong background in analytics, modeling, statistics, and programming.
 
-I have a passion for turning data into valuable insights through statistical modeling, forecasting, and data visualization. With my strong mathematical and technical background, I am eager to navigate through the field of data science.
+I have a passion for turning data into valuable insights through statistical modeling, forecasting, and data visualization.
 
 ## Projects
 
